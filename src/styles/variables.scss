@@ -1,0 +1,44 @@
+// 颜色变量
+$primary-color: #409EFF;
+$success-color: #67C23A;
+$warning-color: #E6A23C;
+$danger-color: #F56C6C;
+$info-color: #909399;
+
+// 背景颜色
+$bg-color: #F5F7FA;
+$card-bg-color: #FFFFFF;
+$border-color: #E4E7ED;
+
+// 字体颜色
+$text-primary: #303133;
+$text-secondary: #606266;
+$text-placeholder: #C0C4CC;
+
+// 字体大小
+$font-size-xs: 12px;
+$font-size-sm: 14px;
+$font-size-base: 16px;
+$font-size-lg: 18px;
+$font-size-xl: 20px;
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// 边框半径
+$border-radius-sm: 2px;
+$border-radius-base: 4px;
+$border-radius-lg: 8px;
+
+// 阴影
+$box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+$card-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+
+// 布局
+$container-width: 1200px;
+$sidebar-width: 200px;
+$header-height: 60px;
